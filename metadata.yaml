@@ -1,0 +1,5 @@
+homepage: "https://www.linkedin.com/in/tracking-specialist/"
+documentation: "https://github.com/tracking-with-bahar/zapier-webhook"
+versions:
+  - sha: c5474e94061a803ad4ee107417283cfbf97324b3
+    changeNotes: Initial release.
